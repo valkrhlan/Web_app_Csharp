@@ -1,0 +1,8 @@
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\bin\PokusajPrveWebAplikacije.dll.config
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\bin\PokusajPrveWebAplikacije.dll
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\bin\PokusajPrveWebAplikacije.pdb
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\obj\Debug\PokusajPrveWebAplikacije.csprojResolveAssemblyReference.cache
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\obj\Debug\PokusajPrveWebAplikacije.dll
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\obj\Debug\PokusajPrveWebAplikacije.pdb
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\bin\MySql.Data.dll
+E:\web apps\c#\PokusajPrveWebAplikacije\PokusajPrveWebAplikacije\bin\MySql.Web.dll
